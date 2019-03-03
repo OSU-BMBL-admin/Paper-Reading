@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTlyddhEkOeRuJRCqoOKZvozp-y8ZPjbV51zcT3zNrhCUwmC0MSMCQo32-Ytl4YEHM-qQ3IXnSIPO8J/pub?embedded=true"></iframe>
+
 You can use the [editor on GitHub](https://github.com/OSUBMBL/paper_reading/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
