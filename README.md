@@ -15,6 +15,7 @@ Specifically, a paper summary should includes aspects listed below:
 6. Any contents, figures, evaluation standards, etc., that can inspire our future work can be highlighted.
 
 Week 3, Mar, 2019
+
 [2018][Exp & Mole Med] Single-cell RNA sequencing technologies and bioinformatics pipelines.
 
 [2018][Nat Review] Single-cell RNA sequencing for the study of development, physiology and disease.
