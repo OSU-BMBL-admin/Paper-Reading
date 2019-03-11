@@ -24,5 +24,3 @@ Name your file as: #-name-date
 [2018][Nat Review] Single-cell RNA sequencing for the study of development, physiology and disease.
 
 [2019][Nat Review] Challenges in unsupervised clustering of single-cell RNA-seq data.
-
-[2019][Nat Review] Integrative single-cell analysis.
