@@ -14,6 +14,9 @@ Specifically, a paper summary should includes aspects listed below:
 5. For tools, methods, and research articles, a brief workflow or working steps should be described, clearly and explicitly;
 6. Any contents, figures, evaluation standards, etc., that can inspire our future work can be highlighted.
 
+You can upload a word file or directly write in txt/markdown on github.
+Name your file as: #-name-date
+
 *** Week 3, Mar, 2019 ***
 
 [2018][Exp & Mole Med] Single-cell RNA sequencing technologies and bioinformatics pipelines.
