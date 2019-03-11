@@ -19,8 +19,14 @@ Name your file as: #-name-date
 
 *** Week 3, Mar, 2019 ***
 
-[2018][Exp & Mole Med] Single-cell RNA sequencing technologies and bioinformatics pipelines.
 
-[2018][Nat Review] Single-cell RNA sequencing for the study of development, physiology and disease.
 
-[2019][Nat Review] Challenges in unsupervised clustering of single-cell RNA-seq data.
+*** Example ***
+1.[2018][Exp & Mole Med] Single-cell RNA sequencing technologies and bioinformatics pipelines.
+  Anjun
+2.[2018][Nat Review] Single-cell RNA sequencing for the study of development, physiology and disease.
+  Dr. Ma
+3.[2019][Nat Review] Challenges in unsupervised clustering of single-cell RNA-seq data.
+  Dr. Ma  
+4.[2019][Nat Review] Integrative single-cell analysis.pdf
+  Anjun
